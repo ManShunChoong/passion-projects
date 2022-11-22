@@ -1,0 +1,6 @@
+---
+ mysql:
+   user: bos
+   password:
+   database: data
+   host: 127.0.0.11
